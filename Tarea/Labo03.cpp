@@ -9,6 +9,7 @@ using namespace std;
 int[] getArrRandomNumbers(int size);
 int[] getArrPartitionOfRanks(int[] arr, int initial, int end);
 int[] sumArrays(int[] arr1, int[] arr2, int size);
+void printArray(int[] arr, int size);
 
 int main(int argc, char* argv[])
 {
